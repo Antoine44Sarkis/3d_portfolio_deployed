@@ -4,16 +4,29 @@
 
 **Hi, I'm Antoine Sarkis** | Full Stack Developer | 42 Beirut - Level 7 | Physics Background
 
-[![🚀 Live Demo – Visit My Portfolio!](https://img.shields.io/badge/demo-live-brightgreen)](https://antoine-sarkis.vercel.app) https://antoine-sarkis.vercel.app
-
----
+[![🚀 Live Demo – Visit My Portfolio!](https://img.shields.io/badge/demo-live-brightgreen)](https://antoine-sarkis.vercel.app)
 
 ## 🌐 My Portfolio is Live!
 
-- [Project Structure](#-project-structure)
-  Organized 100+ components into a clean, scalable structure:
+Organized 100+ components into a clean, scalable structure:
 
 **Why this matters**: Any developer can understand and extend this codebase immediately.
+
+---
+
+## 💼 Freelance Feature
+
+This portfolio lets visitors easily request freelance work directly from the site.
+
+- A prominent "Freelance" button is available on the site.
+- Clicking the button opens a pop-up form.
+- The form asks for your name, email, preferred contact method, budget, project type, description, and deadline.
+- You fill out your project details and submit the form.
+- After submitting, you get a clear success or error message.
+
+This feature makes it simple for anyone to contact me for freelance projects, with a smooth and user-friendly experience.
+
+---
 
 ### 3. **Performance Engineering** ⚡
 
@@ -482,6 +495,7 @@ export const LazyAbout = dynamic(() => import("@/components/ui/About"), {
 - ✅ Better First Contentful Paint (FCP)
 - ✅ On-demand loading as user scrolls
 
+````
 
 ### Performance Results
 
@@ -538,7 +552,7 @@ bg-white/5                    /* Glass morphism cards */
 text-white                    /* Primary text */
 text-gray-300                 /* Secondary text */
 text-gray-400                 /* Tertiary text */
-```
+````
 
 **Component Patterns**:
 
@@ -1009,6 +1023,3 @@ _42 Beirut - Level 7 | Full Stack Developer | Physics Background | South Korea E
 **⭐ If you're interested in working together, please reach out!**
 
 ---
-
-
-
