@@ -482,39 +482,6 @@ export const LazyAbout = dynamic(() => import("@/components/ui/About"), {
 - ✅ Better First Contentful Paint (FCP)
 - ✅ On-demand loading as user scrolls
 
-#### 5. **Next.js Configuration**
-
-```typescript
-// next.config.ts
-export default {
-  compress: true, // Gzip compression
-  images: {
-    formats: ["image/avif", "image/webp"], // Modern formats
-  },
-  experimental: {
-    optimizePackageImports: ["lucide-react", "framer-motion"],
-  },
-};
-```
-
-#### 6. **Vercel Deployment Optimization**
-
-```json
-// vercel.json
-{
-  "headers": [
-    {
-      "source": "/models/(.*)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=2592000, must-revalidate"
-        }
-      ]
-    }
-  ]
-}
-```
 
 ### Performance Results
 
@@ -1042,5 +1009,6 @@ _42 Beirut - Level 7 | Full Stack Developer | Physics Background | South Korea E
 **⭐ If you're interested in working together, please reach out!**
 
 ---
+
 
 
