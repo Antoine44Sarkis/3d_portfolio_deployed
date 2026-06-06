@@ -1018,8 +1018,6 @@ This portfolio demonstrates:
 
 **Built with ❤️ and countless hours of coding by Antoine Sarkis**
 
-_42 Beirut - Level 7 | Full Stack Developer | Physics Background | South Korea Enthusiast 🇰🇷_
-
 **⭐ If you're interested in working together, please reach out!**
 
 ---
