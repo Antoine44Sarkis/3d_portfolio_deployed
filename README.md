@@ -3,7 +3,9 @@
 > **An innovative, dual-experience portfolio that intelligently adapts between immersive 3D graphics and modern 2D design based on device capabilities.**
 
 **Hi, I'm Antoine Sarkis** | Full Stack Developer | 42 Beirut - Level 10.9 | Physics Background
+
 click on to see live :
+
 [![🚀 Live Demo – Visit My Portfolio!](https://img.shields.io/badge/demo-live-brightgreen)](https://antoine-sarkis.vercel.app)
 
 ## 🌐 My Portfolio is Live!
